@@ -1,0 +1,4 @@
+﻿  8_6.cpp
+D:\Lafore\Ch8\8\8_6\8_6.cpp(91,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Lafore\Ch8\8\8_6\8_6.cpp(92,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  8_6.vcxproj -> D:\Lafore\Ch8\8\Debug\8_6.exe
