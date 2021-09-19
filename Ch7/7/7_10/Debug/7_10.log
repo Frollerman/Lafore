@@ -1,0 +1,3 @@
+﻿  7_10.cpp
+D:\Lafore\Ch7\7\7_10\7_10.cpp(39): warning C4715: matrix::getel: значение возвращается не при всех путях выполнения
+  7_10.vcxproj -> D:\Lafore\Ch7\7\Debug\7_10.exe

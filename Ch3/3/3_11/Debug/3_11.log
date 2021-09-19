@@ -1,0 +1,4 @@
+﻿  3_11.cpp
+D:\Lafore\Ch3\3\3_11\3_11.cpp(45,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Lafore\Ch3\3\3_11\3_11.cpp(46,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  3_11.vcxproj -> D:\Lafore\Ch3\3\Debug\3_11.exe

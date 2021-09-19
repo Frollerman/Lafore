@@ -1,0 +1,4 @@
+﻿  5_7.cpp
+D:\Lafore\Ch5\5\5_7\5_7.cpp(63,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\Lafore\Ch5\5\5_7\5_7.cpp(60,21): warning C4101: pwr: неиспользованная локальная переменная
+  5_7.vcxproj -> D:\Lafore\Ch5\5\Debug\5_7.exe
