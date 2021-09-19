@@ -91,8 +91,6 @@ mytime mytime::operator* (mytime t2)
     time1 = h * 60 * 60 + m * 60 + s;
     time2 = t2.h * 60 * 60 + t2.m * 60 + t2.s;
     time3 = time1 * time2;
-    //int hours = time3 / 3600;
-    //int mins = time3 / 60;
     while (s > 59)
     {
         m++;
@@ -133,8 +131,6 @@ int main()
 {
     mytime time1(12, 40, 59), time2(5, 25, 34);
     mytime time3 = time1 + time2;
-    //--time1;
-    //time1++.show();
     time1.show();
     time2.show();
     time3.show();
